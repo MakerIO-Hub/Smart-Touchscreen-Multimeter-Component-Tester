@@ -22,10 +22,11 @@
 
 ---
 
-## 🔗 Links & Projectbestanden
+## 🔗 Links & Project Resources
 
-* 💻 **Broncode & Schema's:** [GitHub Repository](https://github.com/MakerIO-Hub/Smart-Touchscreen-Multimeter-Component-Tester)
-* 🛠️ **3D Print Bestanden (STL):** [Download via Google Drive](https://drive.google.com/drive/folders/BURAYA_GOOGLE_DRIVE_LINKINI_YAPISTIR?usp=sharing)
+* 📺 **YouTube Video:** [Watch the Full Build & Testing Video](Coming Soon)
+* 💻 **Source Code & Schematics:** [GitHub Repository](https://github.com/MakerIO-Hub/Smart-Touchscreen-Multimeter-Component-Tester)
+* 🛠️ **3D Enclosure Files (STL):** [Download via Google Drive](Coming Soon)
 
 ## 🌟 Key Features
 
