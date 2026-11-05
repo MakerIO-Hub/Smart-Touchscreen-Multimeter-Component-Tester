@@ -28,6 +28,8 @@
 * 💻 **Source Code & Schematics:** [GitHub Repository](https://github.com/MakerIO-Hub/Smart-Touchscreen-Multimeter-Component-Tester)
 * 🛠️ **3D Enclosure Files (STL):** [Download via Google Drive](Coming Soon)
 
+---
+
 ## 🌟 Key Features
 
 1. **0–30V DC Voltmeter:**
