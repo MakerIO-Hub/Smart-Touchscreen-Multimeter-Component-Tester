@@ -22,6 +22,11 @@
 
 ---
 
+## 🔗 Links & Projectbestanden
+
+* 💻 **Broncode & Schema's:** [GitHub Repository](https://github.com/MakerIO-Hub/Smart-Touchscreen-Multimeter-Component-Tester)
+* 🛠️ **3D Print Bestanden (STL):** [Download via Google Drive](https://drive.google.com/drive/folders/BURAYA_GOOGLE_DRIVE_LINKINI_YAPISTIR?usp=sharing)
+
 ## 🌟 Key Features
 
 1. **0–30V DC Voltmeter:**
