@@ -179,7 +179,7 @@ PicoMeter Touch incorporates an onboard **3S Li-Ion/LiPo** battery management ci
 * **BMS Board:** 3S 40A Balanced Protection Board (Overcharge, overdischarge, short-circuit protection)
 * **Charge Port:** Standard 5.5x2.1mm DC Female Jack
 * **Charger:** 12.6V 1A/2A CC/CV Li-Ion Charger
-* **Buck Converter:** LM2596 or Mini DC-DC Step-Down Module ($12.6V \rightarrow 5.0V$ Fixed Output)
+* **Buck Converter:** Dual USB DC-DC Step-Down Module, 3A, 12.6V to 5V
 * **Power Switch:** Rocker / Toggle Switch
 
 ### ⚡ Power Distribution & Charging Circuit Diagram
