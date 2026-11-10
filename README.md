@@ -29,6 +29,14 @@
 * 🛠️ **3D Enclosure Files (STL):** [Download via Google Drive](https://drive.google.com/file/d/12-IJyt7DGecNTpHSVDc2jQqmBfWMD-4M/view?usp=sharing)
 
 ---
+### PCB Design & Manufacturing
+
+If you have a schematic but want to speed up the process of generating PCB files, you can try [JLCPCB Layout Service](https://jlcpcb.com?from=MakerIO).
+
+Their professional engineers can turn your schematic into manufacturing-ready PCB files in as little as 3 working days. You can then use the completed PCB files to directly place an order for PCB fabrication or PCBA on JLCPCB.
+
+If you'd like to give this service a try, why not claim a $90 Layout Service coupon first:
+[Claim your $90 Coupon Center](https://jlcpcb.com/coupon-center?from=MakerIO_couponcenter)
 
 ## 🌟 Key Features
 
