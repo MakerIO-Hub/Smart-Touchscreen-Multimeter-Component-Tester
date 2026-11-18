@@ -24,7 +24,7 @@
 
 ## 🔗 Links & Project Resources
 
-* 📺 **YouTube Video:** [Watch the Full Build & Testing Video](Coming Soon)
+* 📺 **YouTube Video:** [Watch the Full Build & Testing Video] [https://youtu.be/Syfso0dOcHU](https://youtu.be/Syfso0dOcHU)
 * 💻 **Source Code & Schematics:** [GitHub Repository](https://github.com/MakerIO-Hub/Smart-Touchscreen-Multimeter-Component-Tester)
 * 🛠️ **3D Enclosure Files (STL):** [Download via Google Drive](https://drive.google.com/file/d/12-IJyt7DGecNTpHSVDc2jQqmBfWMD-4M/view?usp=sharing)
 
